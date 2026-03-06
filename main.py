@@ -7,7 +7,8 @@ def get_user_info():
             break
         else:
             print("That doesn't look like a number. Please try again.")
-
+#uday
+    #age
     print("\n--- Profile Created ---")
     print(f"User: {name}")
     print(f"Status: {age} years old")
